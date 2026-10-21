@@ -115,3 +115,13 @@ The findings should therefore be interpreted as a comparative exploration of his
 This independent project was an opportunity to apply data analysis to a subject I follow closely: football. It combines statistical exploration, data visualisation and historical research to investigate how elite team performance has evolved across European leagues.
 
 The project also reflects my interest in developing further skills in data analysis and applying quantitative methods to sports-related questions.
+
+## Bonus
+
+All the Top 10/15/20 rankings graphs can be obtained with the R script "Football_Top_Rankings_Plots" 
+
+1. Install R and preferably RStudio.
+2. Download the R script and the Excel workbook.
+3. Open the script in RStudio.
+4. Run the script and select the Excel workbook when prompted.
+5. The script installs any missing required R packages and saves all the rankings in a folder named `FOOTBALL_TOP_RANKING_CHARTS` next to the workbook.
